@@ -74,5 +74,4 @@ where `x(t)` ∈ ℝ² is the state, `u(t)` ∈ ℝ is the input, `A` and `B` un
 
 **Technologies and Tools Used:**  
 - MATLAB & Simulink for simulations  
-- Bash/Shell scripts for automation and data handling  
 - Linear system modeling, Least Squares estimation, real-time projection methods
